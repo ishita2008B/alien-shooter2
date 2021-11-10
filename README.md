@@ -1,1 +1,1 @@
-# alien-shooter2
+# ALIEN-SHOOTER
